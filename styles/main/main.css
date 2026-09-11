@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: darkorange;
+    padding: 5px;
+}
+
+nav ul{
+    padding-left: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline;
+    padding: 5px;
+    border-right: 2px solid black;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+img{
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
